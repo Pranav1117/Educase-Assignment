@@ -3,7 +3,7 @@ import Login from "./Pages/Authentication/Login";
 import Register from "./Pages/Authentication/Register";
 import Profile from "./Pages/Profile/Profile";
 import Welcome from "./Pages/Welcome/Welcome";
-import "../src/app.css";
+import "./style.css";
 function App() {
   return (
     <BrowserRouter>
